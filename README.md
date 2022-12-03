@@ -7,6 +7,13 @@ For just over a year I improved this application. It is always best to learn pro
 
 The application also served to demonstrate that PC applications could be developed in regional branches, and we became the first branch, outside of our head office, to develop applications. Officially we used Clipper 5.3 (similar to DBase).
 
+# Screenshots
+These are from original test printouts in 1993.
+
+![Main print out](assets/IMG_1974.jpg)
+
+![Progressions for Y](assets/IMG_1975.jpg)
+
 # From Orginal Instructions:
 This program allows input of pairs of data (up to 200) and will then calculate a table of alternative regression coefficients for linear, exponential, logarithmic and power function least square lines to a given set of N pairs (the data you entered).  What this boils down to is that it will try and fit one of the 4 types of curve to your data.  This curve can then be used to calculate further progressions, standard error of estimate, etc.
 
